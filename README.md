@@ -12,3 +12,4 @@
 ## Beurten
 1. a - goed!
 2. ik raad n
+3. ik raad e
